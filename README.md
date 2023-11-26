@@ -2,7 +2,7 @@
 
 * Various Computer Networks Mini Projects | Computer Networks Lab
   * Adapted various mini projects through different computer network simulators in order to get a better understanding of networks and their interaction
-  * Utilized Wireshark, Boson NetSim, NAT mechanism, and various network protocols including TCP, UDP, LOOP, IPV4, Ethernet II, ICMP, DHCP, , 
+  * Utilized Wireshark, Boson NetSim, NAT mechanism, and various network protocols including TCP, UDP, LOOP, IPV4, Ethernet II, ICMP, and DHCP
 
 Wireshark:
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/6914bb40-7e59-479e-b2c4-d98e3b9d660c)
