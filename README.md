@@ -29,10 +29,6 @@ Wireshark:
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/8f55c60f-b1b6-464b-989c-85f0472ac07e)
 
-My PC Physical Address:
-
-![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/36e1169a-47f4-48bd-a40b-79ab94c5839d)
-
 Congestion Windows Scaling:
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/8422392f-9803-4b88-a5d9-5dde77a5d990)
@@ -44,6 +40,10 @@ Congestion Throughput:
 Congestion Round-Trip Time (RTT):
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/d372af72-9005-4c05-8e34-ec14939e849c)
+
+My PC Physical Address:
+
+![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/36e1169a-47f4-48bd-a40b-79ab94c5839d)
 
 Dynamic NAT Table:
 
