@@ -11,7 +11,6 @@ Wireshark:
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/69cf40da-8533-4acd-8ed1-37db924d9182)
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/cd011460-aaec-4a4d-be0e-7cacc0625b13)
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/cd0cc4a2-2bd5-4e96-9725-1f062529b8eb)
-![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/37286f6c-e11f-4d75-83a5-17b63168f56d)
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/330e569a-d7b3-4249-af37-f32ba0909d08)
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/089cbcb9-e25e-438e-8f02-4ab28e43ced8)
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/69f60d1c-79b9-4c23-8edb-bc8e85b84299)
