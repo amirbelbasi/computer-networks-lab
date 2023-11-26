@@ -48,6 +48,7 @@ Congestion Round-Trip Time (RTT):
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/6df1e4ab-7ce4-4ae2-8de4-2cba3b2e96c3)
 
 Dynamic NAT Table:
+
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/028a6ca1-9213-47e1-8d92-3b0d012696c4)
 
 Boson NetSim:
