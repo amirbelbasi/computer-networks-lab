@@ -23,12 +23,15 @@ My PC Physical Address:
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/36e1169a-47f4-48bd-a40b-79ab94c5839d)
 
 Congestion Windows Scaling:
+
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/8422392f-9803-4b88-a5d9-5dde77a5d990)
 
 Congestion Throughput:
+
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/218316f3-e4c4-447b-a9f3-dc7664f0c2aa)
 
 Congestion Round-Trip Time (RTT):
+
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/d372af72-9005-4c05-8e34-ec14939e849c)
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/29ed7de5-7aaa-4616-8eb1-a0f2339b601f)
@@ -38,5 +41,6 @@ Congestion Round-Trip Time (RTT):
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/6df1e4ab-7ce4-4ae2-8de4-2cba3b2e96c3)
 
 Dynamic NAT Table:
+
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/028a6ca1-9213-47e1-8d92-3b0d012696c4)
 
