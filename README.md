@@ -41,20 +41,19 @@ Congestion Throughput:
 Congestion Round-Trip Time (RTT):
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/d372af72-9005-4c05-8e34-ec14939e849c)
 
-![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/29ed7de5-7aaa-4616-8eb1-a0f2339b601f)
-
-![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/881731d1-0521-4807-9e2b-0f67391fd6a6)
-
-![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/6df1e4ab-7ce4-4ae2-8de4-2cba3b2e96c3)
-
 Dynamic NAT Table:
-
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/028a6ca1-9213-47e1-8d92-3b0d012696c4)
 
 Boson NetSim:
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/e3b0941e-0a93-41c4-9786-3331a95ac1a3)
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/86bfa092-dec2-4b85-9d81-2a689ded3644)
+
+![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/29ed7de5-7aaa-4616-8eb1-a0f2339b601f)
+
+![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/881731d1-0521-4807-9e2b-0f67391fd6a6)
+
+![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/6df1e4ab-7ce4-4ae2-8de4-2cba3b2e96c3)
 
 ![image](https://github.com/amirbelbasi/computer-networks-lab/assets/58425120/348b7dd8-9efe-446b-8195-61e3002a32c9)
 
