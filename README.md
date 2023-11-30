@@ -1,4 +1,4 @@
-# computer-networks-lab
+# wireshark-boson-netsim-lab
 
 * Various Computer Networks Mini Projects | Computer Networks Lab
   * Adapted various mini projects through different computer network simulators in order to get a better understanding of networks and their interaction
